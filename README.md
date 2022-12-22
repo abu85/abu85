@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Abu Bakar Siddique
 #### a Bioinformatician at SLUBI in Swedish Agricultural University (SLU)
-![a Bioinformatician at SLUBI in Swedish Agricultural University (SLU)](https://lh4.googleusercontent.com/UPi027UWz8RvAbPlEQ3mGdOTfdUR7NOQz0F3RAioUgUcm_TOP60ZBUtt15RvU4t75jxQHgTTy_goVNNnhIv1h8U9XMscvaszhZlf5aqcoP55lXEJ1BQQLh8EsWzL398DRgbrpDjZhgVvMU-WhqF6tw)
+![a Bioinformatician at SLUBI in Swedish Agricultural University (SLU)]([https://lh4.googleusercontent.com/UPi027UWz8RvAbPlEQ3mGdOTfdUR7NOQz0F3RAioUgUcm_TOP60ZBUtt15RvU4t75jxQHgTTy_goVNNnhIv1h8U9XMscvaszhZlf5aqcoP55lXEJ1BQQLh8EsWzL398DRgbrpDjZhgVvMU-WhqF6tw](https://lh5.googleusercontent.com/zaiuKVyJGXA82MwWzX5Tcu4UJFcCeP5NLu82cxemAJHjvKzQEkNdLXIh8u04U-OD_7hAKHFoeEaIaxvGcQJjpVdbHux4jHz_vaQ-wW_58kTf5bF3JZ8AnscrwBsiPb9vGWew9f59jFjYN1wNW-t3Ow))
 
 I have • mobility research experience • professional and positive individual with a strong can-do attitude • extensive hands-on NGS library preparation • Experience from eDNA, shotgun, nanopore minion, metabarcoding data and corresponding metagenomic analysis • strong passion for science and scientific expertise in metagenomics, • excellent communication skills, project management and a strong delivery focus • adapted to the international lab or office setup and remote working
 
