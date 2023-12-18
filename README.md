@@ -1,15 +1,15 @@
-![I am Bioinformatician](https://lh5.googleusercontent.com/LWcfCFqgbMTZMfsd98RClR8vEzYMYcSltj5L1A17iG37Ojb9e_DBbTbEAlDRH69sd4fpmIwjgajxgtDSuunQyLF1ClMgHxq6b7bKOdoKsmGdZ2WDaoXyg5aohc9-8lIwtQIrlV4YZXGD5asVsOsU5j7QWV_JwV-r1uI0Fh6ZlXt09tDqJjCbS7Rhd0BiBiv5=w1280)
+![I am Bioinformatician](https://i0.wp.com/bioinformaticamente.com/wp-content/uploads/2020/10/Progetto-senza-titolo.png?resize=1024%2C576&ssl=1)
 ### Hi there 👋, I am Abu Bakar Siddique
-#### a bioinformatician at SLUBI in Swedish Agricultural University (SLU)
+#### a bioinformatician at SLU Bioinformatics Infrastructure (SLUBI) in Swedish Agricultural University (SLU)
 
-I have • metagenomic and transcriptomic reseach experience • mobility research experience • a strong can-do attitude • extensive hands-on NGS library preparation • experience on eDNA, shotgun, nanopore minion, metabarcoding data and corresponding metagenomic analysis • a strong passion for science and scientific expertise in metagenomics • excellent communication skills, project management and a strong delivery focus • adaptibility to the international lab or office setup and remote working
+I have • metagenomic and transcriptomic analysis experience • mobility research experience • a strong can-do attitude • extensive hands-on NGS library preparation • experience on eDNA, shotgun, nanopore minion, metabarcoding data and corresponding metagenomic and metatranscriptomic analysis • a strong passion for science and scientific expertise in metagenomics metatranscriptomics • excellent communication skills, project management and a strong delivery focus • adaptibility to the international lab or office setup and remote working
 
-Skills: ITS / 18S / 16S / WGS / R / Excel / DNA /  RNA / PCR / RT-PCR / HTS library prep / Presentation
+Skills: Linux / R / Excel / ITS / 18S / 16S / COI / DNA /  RNA / PCR / RT-PCR / HTS library prep / Presentation
 
 - 🔭 I’m currently working on SLU (Swedish Agricultural University) 
-- 🌱 I’m currently learning git, github, R, python, nextflow, snakemake 
-- 👯 I’m looking to collaborate on bioinformatics, metagenomics, endophytes, mycology, plant biology, virus 
-- 💬 Ask me about ITS fungal metagenomics 
+- 🌱 I’m currently learning git, github, R-advanced, python, nextflow, snakemake 
+- 👯 I’m looking to collaborate on bioinformatics, metagenomics, metatranscriptomics, endophytes, mycology, plant biology, virus 
+- 💬 Ask me about ITS fungal metabarcoding, metagenomics, DGE analysis 
 - 📫 How to reach me: abu.siddique@slu.se 
 
 
