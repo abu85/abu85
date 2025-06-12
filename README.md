@@ -1,4 +1,4 @@
-![I am Bioinformatician](https://i0.wp.com/bioinformaticamente.com/wp-content/uploads/2020/10/Progetto-senza-titolo.png?resize=1024%2C576&ssl=1)
+![I am Bioinformatician]
 ### Hi there 👋, I am Abu Bakar Siddique
 #### a bioinformatician at SLU Bioinformatics Infrastructure (SLUBI) in Swedish Agricultural University (SLU)
 
