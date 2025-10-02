@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Abu Bakar Siddique
-#### a bioinformatician at SLU Bioinformatics Infrastructure (SLUBI) in Swedish Agricultural University (SLU)
+#### a bioinformatician at SLU Bioinformatics Infrastructure (SLUBI) in Swedish Agricultural University (SLU), Uppsala, Sweden
 
-Skills: Linux / WSL / bash / R / Excel / ITS / 18S / 16S / COI / MAG / RNA / DGE A / PCR / HTS library prep / Presentation
+Skills: Linux / WSL / bash / R / Git & Github/ Metagenomics (ITS,18S,16S,COI,eDNA,MAGs) / RNA / DGE / PCR / HTS library prep / Presentation
 
 - 🔭 I’m currently working on SLU (Swedish Agricultural University) 
-- 🌱 I’m currently learning git, github, R-advanced, python, nextflow, snakemake 
+- 🌱 I’m currently learning R-advanced, python, nextflow, snakemake 
 - 👯 I’m looking to collaborate on bioinformatics, metagenomics, metatranscriptomics, endophytes, mycology, plant biology, virus 
 - 💬 Ask me about metabarcoding, metagenomics, DGE analysis 
 - 📫 How to reach me: abu.siddique@slu.se 
