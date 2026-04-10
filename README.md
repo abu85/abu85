@@ -1,18 +1,18 @@
 ## Hi, I’m Abu Bakar Siddique 👋
 ### Bioinformatician at SLU Bioinformatics Infrastructure (SLUBI), Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden.
-I build reproducible workflows and analyses for metagenomics, metabarcoding, and RNA-seq/DGE, and I enjoy turning complex biological questions into robust, shareable pipelines and clear results.
+I build reproducible bioinformatics workflows and downstream analyses for metagenomics (metabarcoding, short-reads, long-reads, and transcriptomics), and I enjoy turning complex biological questions into robust, shareable pipelines and clear results.
 
 🔧 Skills & Tooling
 
 Systems & Dev: Linux | Bash | Git & GitHub
-Languages: R (advanced) | Python (learning)
-Workflow Engines: Nextflow (learning) | Snakemake (learning)
-Domains: Metagenomics (ITS, 18S, 16S, COI, eDNA, MAGs) | Metabarcoding | Transcriptomics, metatranscriptomics|
-Wet-lab: PCR | HTS library preparation
+Languages: R (advanced) | Python (beginner)
+Workflow Engines & Enviornment: Nextflow (medium) | Snakemake (learning) | Pixi | Conda | R Shiny |
+Domains: Metagenomics (ITS, 18S, 16S, COI, DNA, RNA, long reads: PACBIO, Nanopore & short reads: shotgun) | Transcriptomics, metatranscriptomics|
+Wet-lab: Extraction: DNA, RNA | PCR | HTS library preparation | Clonning | 
 Communication: Technical presentations & training
 
-🤝 Open to Collaborate On
-Bioinformatics, metagenomics, metatranscriptomics, Ecology, mycology, plant biology, pathology, and virology.
+🤝 Open to Collaborate:
+Bioinformatics analysis pipeline, workflow, metagenomics, metatranscriptomics, transcriptomics, ecology, mycology, plant biology, pathology, and virology.
 
 💬 Ask Me About
 Metabarcoding, metagenomics, and DGE, GO, KO analysis—from study design to reproducible pipelines.
