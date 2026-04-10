@@ -1,6 +1,6 @@
 ## Hi, I’m Abu Bakar Siddique 👋
 ### Bioinformatician at SLU Bioinformatics Infrastructure (SLUBI), Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden.
-I build reproducible bioinformatics workflows and downstream analyses for metagenomics (metabarcoding, short-reads, long-reads, and transcriptomics), and I enjoy turning complex biological questions into robust, shareable pipelines and clear results.
+I build reproducible bioinformatics workflows and downstream analyses for metagenomics, transcriptomics, genomics, and I enjoy turning complex biological questions into robust, shareable pipelines and clear results.
 
 🔧 Skills & Tooling
 
