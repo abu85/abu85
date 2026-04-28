@@ -5,10 +5,15 @@ I build reproducible bioinformatics workflows and downstream analyses for metage
 🔧 Skills & Tooling
 
 Systems & Dev: Linux | Bash | Git & GitHub
+
 Languages: R (advanced) | Python (beginner)
+
 Workflow Engines & Enviornment: Nextflow (medium) | Snakemake (learning) | Pixi | Conda | R Shiny |
+
 Domains: Metagenomics (ITS, 18S, 16S, COI, DNA, RNA, long reads: PACBIO, Nanopore & short reads: shotgun) | Transcriptomics, metatranscriptomics|
+
 Wet-lab: Extraction: DNA, RNA | PCR | HTS library preparation | Clonning | 
+
 Communication: Technical presentations & training
 
 🤝 Open to Collaborate:
